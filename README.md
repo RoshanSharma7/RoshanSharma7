@@ -11,7 +11,7 @@
 
 - 🧑🏻‍🏫 I'm currently working on [Bank Management System](https://github.com/RoshanSharma7/Bank-Account-Management-System.git)
 
-- 🌱 I’m currently learning **Python, AI & ML**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoshanSharma7](https://github.com/RoshanSharma7)
 

@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/RoshanSharma7/](https://www.linkedin.com/in/RoshanSharma7/)
 
-- ⚡ Fun fact **I have no Emotion, but i am trying to be Happy**
+- ⚡ My Hobbies **1 Coding | 2 Boxing | 3 Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

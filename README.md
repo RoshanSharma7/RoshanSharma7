@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/imroshansharma7" target="blank"><img src="https://img.shields.io/twitter/follow/imroshansharma7?logo=twitter&style=for-the-badge" alt="imroshansharma7" /></a> </p>
 
-- 🔭 I’m completing [Disease Prediction and Medicine Recommendation](https://github.com/RoshanSharma7/Disease-Prediction-and-Medicine-Recommendation.git)
+- 🔭 I’m completing [**Disease Prediction and Medicine Recommendation**](https://github.com/RoshanSharma7/Disease-Prediction-and-Medicine-Recommendation.git)
 
-- 🧑🏻‍🏫 I'm currently working on [Bank Management System](https://github.com/RoshanSharma7/Bank-Account-Management-System.git)
+- 🧑🏻‍🏫 I'm currently working on **Django Blog Project**
 
-- 🌱 I’m currently learning [**Java**](https://docs.oracle.com/javase/tutorial/)
+- 🌱 I’m currently learning [**Django**](https://docs.djangoproject.com/en/5.2/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RoshanSharma7](https://github.com/RoshanSharma7)
+- 👨‍💻 All of my projects are available at [**My GitHub Account**](https://github.com/RoshanSharma7)
 
-- 📝 I regularly write articles on [http://infotechgyan7.blogspot.com/](http://infotechgyan7.blogspot.com/)
+- 📝 I regularly write articles on [**Google Blogs**](http://infotechgyan7.blogspot.com/)
 
 - 📫 How to reach me **roshan.amlai96@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/RoshanSharma7/](https://www.linkedin.com/in/RoshanSharma7/)
+- 📄 Know about my experiences [**LinkedIn**](https://www.linkedin.com/in/RoshanSharma7/)
 
 - ⚡ My Hobbies **1 Coding | 2 Boxing | 3 Cricket**
 

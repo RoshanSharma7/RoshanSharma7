@@ -9,7 +9,7 @@
 
 - 🔭 I’m completing [**Disease Prediction and Medicine Recommendation**](https://github.com/RoshanSharma7/Disease-Prediction-and-Medicine-Recommendation.git)
 
-- 🧑🏻‍🏫 I'm currently working on **Django Blog Project**
+- 🧑🏻‍🏫 I'm currently working on **Django UI Assistance** 
 
 - 🌱 I’m currently learning [**Django**](https://docs.djangoproject.com/en/5.2/)
 
